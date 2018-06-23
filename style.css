@@ -1,0 +1,26 @@
+html{
+  font-family: Verdana,sans-serif;
+  text-align: center;
+  background-color: black;
+}
+.image{
+  background-size: 10%
+}
+h1{
+  color: white;
+  font-size: 50px;
+}
+
+ h2{
+  color: white;
+  font-size: 42px;
+  font-weight: 300;
+}
+p{
+  font-size: 21px;
+  color: gray;
+}
+.copyright{
+  text-align: right;
+  color: gray;
+}
