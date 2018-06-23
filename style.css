@@ -3,9 +3,6 @@ html{
   text-align: center;
   background-color: black;
 }
-.image{
-  background-size: 10%
-}
 h1{
   color: white;
   font-size: 50px;
@@ -20,6 +17,12 @@ p{
   font-size: 21px;
   color: gray;
 }
+
+nav{
+  font-size: 160px;
+  color: Aquamarine;
+}
+
 .copyright{
   text-align: right;
   color: gray;
